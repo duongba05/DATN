@@ -4,7 +4,6 @@ public class EnemyController : MonoBehaviour
 {
     public int maxHP = 50;
     private int currentHP;
-
     public float moveSpeed = 2f;
     private Transform target;
 
